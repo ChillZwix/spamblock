@@ -1,0 +1,85 @@
+debian.org
+
+unraid.net
+mothership.unraid.net
+adf.ly
+app-measurement.com
+youtube.com
+instagram.com
+ebay.com
+intel.com
+asus.com
+tardigrade.io
+nvidia.com
+# EA / Origin (AdAway) (Used by Origin for content delivery)
+cdn.optimizely.com
+shopify.com
+bit.ly
+ow.ly
+tinyurl.com
+nfkino.no
+mysterium.network
+komplett.no
+solopool.org
+oinbase.com
+bitpay.com
+unmineable.com
+square-enix-games.com
+githubusercontent.com
+docker.com
+
+# Facebook
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+graph.facebook.com
+graph.instagram.com
+instagram.c10r.facebook.com
+scontent-lhr3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+facebook.com
+facebook.net
+fbcdn.net
+cdn.fbsbx.com
+edge-mqtt.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+edge-chat.facebook.com
+mqtt-mini.facebook.com
+
+# GeForce Experience
+events.gfe.nvidia.com
+gfwsl.geforce.com
+
+# Nvidia updates
+ota-downloads.nvidia.com
+
+# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
+prod.telemetry.ros.rockstargames.com
+
+# Images not loading on aliexpress.com
+ae01.alicdn.com
+
+# Netflix - Domains needed for netlix to work correctly
+api-global.netflix.com
+appboot.netflix.com
+
+# Samsung smart TV's network issue
+cdn.samsungcloudsolution.com
+secure.netflix.com
