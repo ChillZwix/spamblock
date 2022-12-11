@@ -87,6 +87,7 @@ secure.netflix.com
 
 # Sensibo Heatpump controller
 sensibo.com
+home.sensibo.com
 
 # Unifi Network
 ubnt.com
