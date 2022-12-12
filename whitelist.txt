@@ -91,9 +91,14 @@ home.sensibo.com
 
 # Unifi Network
 ubnt.com
+fw-update.ubnt.com
 
 # Harmony Universal remote
 myharmony.com
+svcs.myharmony.com
 
 # Crypto Farm tool
 hiveos.farm
+
+# Home Assistant
+ui.nabu.casa
