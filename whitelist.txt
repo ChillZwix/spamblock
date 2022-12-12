@@ -1,14 +1,14 @@
-debian.org
-unraid.net
-mothership.unraid.net
+||debian.org
+||unraid.net
+# mothership.unraid.net
 adf.ly
 app-measurement.com
-youtube.com
+||youtube.com
 instagram.com
 ebay.com
 intel.com
 asus.com
-tardigrade.io
+||tardigrade.io
 nvidia.com
 
 # EA / Origin (AdAway) (Used by Origin for content delivery)
@@ -86,19 +86,19 @@ cdn.samsungcloudsolution.com
 secure.netflix.com
 
 # Sensibo Heatpump controller
-sensibo.com
-home.sensibo.com
+||sensibo.com
+# home.sensibo.com
 
 # Unifi Network
-ubnt.com
-fw-update.ubnt.com
+||ubnt.com
+# fw-update.ubnt.com
 
 # Harmony Universal remote
-myharmony.com
-svcs.myharmony.com
+||myharmony.com
 
 # Crypto Farm tool
-hiveos.farm
+||hiveos.farm
 
 # Home Assistant
-ui.nabu.casa
+# ui.nabu.casa
+||nabu.casa
