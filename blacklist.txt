@@ -23,3 +23,4 @@
 ||login.live.com^
 ||www.bing.com^
 ||www.gstatic.com^$important
+||diag.meethue.com^$important
