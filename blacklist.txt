@@ -22,3 +22,4 @@
 ||g.msn.com^
 ||login.live.com^
 ||www.bing.com^
+||www.gstatic.com^$important
