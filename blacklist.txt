@@ -24,3 +24,4 @@
 ||www.bing.com^
 ||www.gstatic.com^$important
 ||diag.meethue.com^$important
+trace.svc.ui.com
