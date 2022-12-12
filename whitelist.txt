@@ -10,6 +10,7 @@ intel.com
 asus.com
 ||tardigrade.io
 nvidia.com
+||xiaomi.com
 
 # EA / Origin (AdAway) (Used by Origin for content delivery)
 cdn.optimizely.com
