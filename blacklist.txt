@@ -18,3 +18,7 @@
 ||advertising.twitter.com^
 ||d.reddit.com^
 ||array506.prod.do.dsp.mp.microsoft.com^
+||arc.msn.com^
+||g.msn.com^
+||login.live.com^
+||www.bing.com^
