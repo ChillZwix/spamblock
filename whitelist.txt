@@ -93,6 +93,7 @@ secure.netflix.com
 
 # Unifi Network
 ||ubnt.com
+||ui.com^$important
 # fw-update.ubnt.com
 
 # Harmony Universal remote
