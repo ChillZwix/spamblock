@@ -12,6 +12,8 @@ asus.com
 nvidia.com
 ||xiaomi.com
 ||mi.com
+||parsec.app
+||akamaihd.net
 
 # EA / Origin (AdAway) (Used by Origin for content delivery)
 cdn.optimizely.com
