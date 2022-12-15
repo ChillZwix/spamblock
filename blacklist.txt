@@ -1,6 +1,5 @@
 ||doubleclick.net^
 ||googleadservices.com^
-||amazonaws.com^
 ||advertising-api-eu.amazon.com^
 ||amazonaax.com^
 ||baidu.com^
