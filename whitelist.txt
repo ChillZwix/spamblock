@@ -108,3 +108,6 @@ secure.netflix.com
 # ui.nabu.casa
 ||nabu.casa
 ||cognito-idp.us-east-1.amazonaws.com^$important
+
+# Easee charger
+||easee.cloud
